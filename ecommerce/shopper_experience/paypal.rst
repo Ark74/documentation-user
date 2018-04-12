@@ -62,6 +62,12 @@ Set up your Paypal account
 
   .. image:: media/paypal_encoding_options.png
     :align: center
+    
+* **Encrypted Website Payments** & *EWP_SETTINGS* error.
+If you encounter errors like the one showed below, EWP_SETTINGS errors you might need to turn off *Encrypted Website Payments*.
+image
+Go to *My selling tools -> Website Preferences -> Encrypted Website Payments* and Turn Off `Block Non-encrypted Website Payment`.
+image2
 
   .. tip:: If you want your customers to pay without creating a Paypal account, 
     **Paypal Account Optional** needs to be turned on.
